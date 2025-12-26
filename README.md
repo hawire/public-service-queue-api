@@ -19,5 +19,3 @@ Public Service Queue Management API built with Django REST Framework
 ## ERD
 Includes Users, Citizens, Services, and Queue Tickets.
 
-## Project Status
-🚧 Currently under development (Week 1: Planning & Setup)
